@@ -127,6 +127,8 @@ Dashboard:
 http://192.168.1.100:8095/
 ```
 
+![OmniPad PS5 Universal Dashboard](assets/omnipad_dashboard.png)
+
 The TCP input interface is used to transmit controller frames. The script uses a 16-byte frame format:
 
 ```python
