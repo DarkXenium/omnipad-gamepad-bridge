@@ -41,7 +41,7 @@ The Python script:
 - Python 3.12 or compatible Python 3.x installation
 - USB gamepad connected to the PC
 - PS5 console
-- OmniPad PS5 installed and running
+- OmniPad PS5 v1.0.4 installed and running
 - PC and OmniPad connected to the same local network
 
 ## Python Dependencies
@@ -171,7 +171,7 @@ The project has been tested with:
 - Python 3.12
 - Pygame
 - A USB gamepad detected through Pygame
-- OmniPad PS5 v1.0.4 Hotfix 1 (Build 19)
+- OmniPad PS5 v1.0.4
 - LAN communication using TCP port 9045
 
 The bridge has successfully established TCP communication with OmniPad and transmitted controller input frames during testing.
